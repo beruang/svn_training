@@ -1,5 +1,8 @@
 # Jatis Subversion Training
 
+# Docker Subversion image used
+https://github.com/elleFlorio/svn-docker
+
 # Running Docker Subversion
 docker-compose up -d
 
