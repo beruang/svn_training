@@ -1,2 +1,1 @@
-# svn_training
-Subversion Training
+# Jatis Subversion Training
